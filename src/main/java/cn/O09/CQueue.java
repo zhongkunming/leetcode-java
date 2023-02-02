@@ -1,4 +1,4 @@
-package cn.lc.l09;
+package cn.O09;
 
 import java.util.ArrayDeque;
 import java.util.Deque;
