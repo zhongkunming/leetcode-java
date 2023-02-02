@@ -12,8 +12,6 @@ public class Solution {
             queue.push(head.val);
             head = head.next;
         }
-
-
 //        List<Integer> list = new ArrayList<>();
 //        while (head != null) {
 //            list.add(head.val);
